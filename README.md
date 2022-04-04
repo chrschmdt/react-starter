@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Usage
 
-The goal of this repo is to provide a starter template for a React project using Tailwind CSS, React Router, and Prettier. It includes some components and pages to get started, as well as a light / dark theme toggler. It is not pretty, but it is a decent start to a React project.
+The goal of this repo is to provide a starter template for a React project using Tailwind CSS, React Router, and Prettier. It includes some components and pages to get started, as well as a light / dark theme toggler.
 
 ## Available Scripts
 
